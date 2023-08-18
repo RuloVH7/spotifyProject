@@ -3,6 +3,8 @@
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![power_bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+
 
 
 Analyzing song attributes provides a structured way to quantify and understand the various dimensions of music, enabling a wide range of applications across entertainment, psychology, research, and more. 
