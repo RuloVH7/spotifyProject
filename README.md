@@ -10,6 +10,9 @@ Immerse yourself in the world of sound, connecting with favorite songs on a deep
 
 📝 Open the .ipynb file to explore the process.
 
+📝 Open the .pbix file to explore the dashboard.
+
+
 
 ## 📉 Dataset
 
